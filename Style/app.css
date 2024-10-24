@@ -462,6 +462,9 @@ html {
   src: url("../Assets/Fonts//woff/IRANSansX-regular.woff") format("woff"),
     url("../Assets/Fonts//woff2/IRANSansX-regular.woff2") format("woff2");
 }
+body {
+  font-family: IRANSansX;
+}
 
 /* 
 
@@ -634,13 +637,13 @@ a {
 
 html {
   font-size: 62.5%;
-  font-family: IRANSansX;
 }
 
 body {
   font-size: 1.6rem;
   line-height: 1.5;
   direction: rtl;
+  font-family: IRANSansX;
   background: linear-gradient(243.02deg, #10a9da -9.92%, #92e5ff 106.28%);
   position: relative;
 }
