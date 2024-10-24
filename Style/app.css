@@ -634,6 +634,7 @@ a {
 
 html {
   font-size: 62.5%;
+  font-family: IRANSansX;
 }
 
 body {
@@ -642,7 +643,6 @@ body {
   direction: rtl;
   background: linear-gradient(243.02deg, #10a9da -9.92%, #92e5ff 106.28%);
   position: relative;
-  font-family: IRANSansX;
 }
 
 /* 
