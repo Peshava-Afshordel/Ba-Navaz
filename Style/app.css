@@ -676,6 +676,8 @@ body {
   -ms-border-radius: 0.8rem;
   -o-border-radius: 0.8rem;
   cursor: pointer;
+  font-family: "IRANSansX";
+
   transition: all 200ms ease;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
