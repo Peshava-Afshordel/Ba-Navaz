@@ -35,7 +35,7 @@
   font-family: "IRANSansX";
   font-style: normal;
   font-weight: 600;
-  src: url("../Assets/Fonts//woff/IRANSansX-DemiBold.woff") format("woff"),
+  src: url("../Assets/Fonts//woffIRANSansX-DemiBold.woff") format("woff"),
     url("../Assets/Fonts//woff2/IRANSansX-DemiBold.woff2") format("woff2");
 }
 
