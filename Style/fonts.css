@@ -1,0 +1,76 @@
+/* 
+
+- Fonts -
+
+*/
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../Assets/Fonts/woff/IRANSansX-Thin.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-thin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../Assets/Fonts//woff/IRANSansX-UltraLight.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-UltraLight.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../Assets/Fonts//woff/IRANSansX-Light.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../Assets/Fonts//woff/IRANSansX-Medium.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../Assets/Fonts//woff/IRANSansX-Demibold.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Demibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../Assets/Fonts//woff/IRANSansX-Extrabold.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Extrabold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../Assets/Fonts//woff/IRANSansX-Black.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../Assets/Fonts//woff/IRANSansX-Bold.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansX";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Assets/Fonts//woff/IRANSansX-Regular.woff") format("woff"),
+    url("../Assets/Fonts//woff2/IRANSansX-Regular.woff2") format("woff2");
+}
