@@ -1,14 +1,10 @@
-/* 
 
-- Fonts -
-
-*/
 @font-face {
   font-family: "IRANSansX";
   font-style: normal;
   font-weight: 100;
   src: url("../Assets/Fonts/woff/IRANSansX-Thin.woff") format("woff"),
-    url("../Assets/Fonts//woff2/IRANSansX-thin.woff2") format("woff2");
+    url("../Assets/Fonts//woff2/IRANSansX-Thin.woff2") format("woff2");
 }
 
 @font-face {
